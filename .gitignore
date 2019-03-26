@@ -116,3 +116,5 @@ dmypy.json
 desktop.ini
 *.pdf
 *.png
+*.SLDASM
+50 Mhz source/rackmount case/RM1U1908VBK.stp
